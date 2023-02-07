@@ -33,11 +33,11 @@ I have used Linux both at work as well as a daily driver OS.
 
 # Socials and contact
 
-[![LinkedIn](/assets/logos/linkedin.png)](https://www.linkedin.com/in/ivand1217)
+[![LinkedIn](/assets/logos/linkedin.png)](https://www.linkedin.com/in/devidimitrov)
 &nbsp;&nbsp;&nbsp;
 [![GitHub](/assets/logos/github.png)](https://github.com/ivandimitrov8080)
 &nbsp;&nbsp;&nbsp;
-[ivan@ivandimitrov.co.uk](mailto:ivan@ivandimitrov.co.uk)
+[ivan@ivandimitrov.co.uk](mailto:ivan@idimitrov.dev)
 
 # Hobbies
 
